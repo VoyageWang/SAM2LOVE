@@ -4,7 +4,7 @@
 <img width="650" alt="image" src="assests/teaser.png">
 </div>
 <br>
-<a href='https://arxiv.org/abs/2506.01558'><img src='https://img.shields.io/badge/Arxiv-2505.14231-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a>
+<a href='https://arxiv.org/abs/2506.01558'><img src='https://img.shields.io/badge/Arxiv-2506.01558-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a>
 
 
 <br>
