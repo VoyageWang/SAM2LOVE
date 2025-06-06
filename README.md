@@ -9,7 +9,7 @@
 
 <br>
 <div>
-<a href="https://voyagewang.github.io/">Yuji Wang</a><sup>1,2</sup>,
+<a href="https://voyagewang.github.io/">Yuji Wang</a><sup>1</sup>,
 <a href="" target="_blank">Haoran Xu</a><sup>2</sup>,
 <a href="https://yongliu20.github.io/">Yong Liu</a><sup>1</sup>,
 <a href="" target="_blank">Jiaze Li</a><sup>2</sup>,
